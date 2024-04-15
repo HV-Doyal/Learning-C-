@@ -1,4 +1,4 @@
-# Learning-C-
+# Learning-C-Sharp
 **Welcome to My C# Learning Journey Repository!**
 
 This repository is dedicated to documenting my progress as I learn C# programming language from various sources, including the Udemy course "Complete C# Masterclass" and other learning materials.
