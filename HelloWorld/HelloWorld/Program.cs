@@ -4,9 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HelloWorld!");
+            int number = 5;
+            float pi = 3.1415f;
+            bool isreal = true;
+            string myName = "Denis";
+            char at = '@';
+            Console.WriteLine("HelloWorld!" + number + pi + isreal + myName + at);
             Console.ReadLine();
-            Console.Beep();
         }
     }
 }
